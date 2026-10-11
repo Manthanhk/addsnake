@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,50:6d28d9,100:8b5cf6&height=230&section=header&text=Mukesh%20Poojary&fontSize=74&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Cybersecurity%20Engineer%20%E2%80%A2%20Offensive%20Security%20%E2%80%A2%20Secure%20Development&descAlignY=58&descSize=17" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,50:6d28d9,100:8b5cf6&height=230&section=header&text=Mukesh%20Poojary&fontSize=74&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=BCA%20Cybersecurity%20Student%20%E2%80%A2%20Ethical%20Hacking%20%E2%80%A2%20Secure%20Development&descAlignY=58&descSize=17" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2600&pause=700&color=A78BFA&center=true&vCenter=true&width=950&lines=Break+It.+Understand+It.+Defend+It.;Penetration+Testing+%E2%80%A2+Red+Team+%E2%80%A2+Threat+Detection;Secure+By+Design%2C+Never+By+Accident;Exploit+Development+%E2%80%A2+Malware+Analysis+%E2%80%A2+DFIR" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2600&pause=700&color=A78BFA&center=true&vCenter=true&width=950&lines=Learn+It.+Break+It.+Defend+It.;Ethical+Hacking+%E2%80%A2+CTFs+%E2%80%A2+Blue+Team+Basics;Secure+By+Design%2C+Never+By+Accident;Networking+%E2%80%A2+Linux+%E2%80%A2+Malware+Analysis+Fundamentals" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.Tech-Cybersecurity-6D28D9?style=for-the-badge&labelColor=1a0b2e" />
+<img src="https://img.shields.io/badge/BCA-Cybersecurity-6D28D9?style=for-the-badge&labelColor=1a0b2e" />
 <img src="https://img.shields.io/badge/CGPA-9.2%2F10-7C3AED?style=for-the-badge&labelColor=1a0b2e" />
 <img src="https://img.shields.io/badge/Bengaluru,%20IN-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=A78BFA&labelColor=1a0b2e" />
 
@@ -31,14 +31,14 @@
 
 ## About
 
-Security engineer who breaks systems to learn how to defend them. Offensive testing, detection engineering, and shipping code that is hard to exploit in the first place.
+BCA Cybersecurity student who learns how systems break so I can help defend them. I spend my time on ethical hacking practice, CTFs, home-lab projects, and writing code that is hard to exploit in the first place.
 
-Everything practiced in authorized labs, CTFs, and scoped engagements. Responsible disclosure, always.
+Everything is practiced in authorized labs, CTF platforms, and legal practice environments. Responsible disclosure, always.
 
 ```yaml
-focus:    [ web_exploitation, active_directory, cloud_security, malware_analysis ]
-building: [ recon_automation, detection_rules, security_tooling ]
-open_to:  [ security_engineer, penetration_tester, appsec, soc_analyst ]
+learning: [ web_exploitation, networking, linux_privilege_escalation, malware_analysis_basics ]
+building: [ recon_scripts, detection_rules, home_lab, security_tools ]
+open_to:  [ internships, soc_analyst_trainee, junior_pentester, appsec_trainee ]
 ```
 
 <div align="center">
@@ -53,7 +53,7 @@ open_to:  [ security_engineer, penetration_tester, appsec, soc_analyst ]
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,bash,go,rust,js,ts,php,powershell&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,bash,java,js,html,css,php,mysql&theme=dark" />
 
 <br/>
 
@@ -70,7 +70,7 @@ open_to:  [ security_engineer, penetration_tester, appsec, soc_analyst ]
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=kali,linux,docker,kubernetes,aws,azure,terraform,nginx,git,githubactions&theme=dark" />
+<img src="https://skillicons.dev/icons?i=kali,linux,windows,docker,aws,azure,git,github,vscode,nginx&theme=dark" />
 
 <br/>
 
@@ -84,90 +84,102 @@ open_to:  [ security_engineer, penetration_tester, appsec, soc_analyst ]
 
 | Domain | Level | Focus |
 | :--- | :---: | :--- |
-| **Web Application Security** | ![](https://img.shields.io/badge/Advanced-8B5CF6?style=flat-square&labelColor=1a0b2e) | OWASP Top 10, SSRF, deserialization, auth bypass |
-| **Network Penetration Testing** | ![](https://img.shields.io/badge/Advanced-8B5CF6?style=flat-square&labelColor=1a0b2e) | Enumeration, pivoting, privilege escalation |
-| **Active Directory** | ![](https://img.shields.io/badge/Proficient-7C3AED?style=flat-square&labelColor=1a0b2e) | Kerberoasting, ACL abuse, lateral movement |
-| **Reverse Engineering** | ![](https://img.shields.io/badge/Proficient-7C3AED?style=flat-square&labelColor=1a0b2e) | Static/dynamic analysis, unpacking, binary patching |
-| **Cloud Security** | ![](https://img.shields.io/badge/Proficient-7C3AED?style=flat-square&labelColor=1a0b2e) | IAM abuse paths, misconfiguration, CSPM |
-| **Detection Engineering** | ![](https://img.shields.io/badge/Proficient-7C3AED?style=flat-square&labelColor=1a0b2e) | Sigma rules, SIEM tuning, ATT&CK coverage |
-| **Digital Forensics** | ![](https://img.shields.io/badge/Intermediate-6D28D9?style=flat-square&labelColor=1a0b2e) | Memory analysis, disk artifacts, timeline building |
-| **Cryptography** | ![](https://img.shields.io/badge/Intermediate-6D28D9?style=flat-square&labelColor=1a0b2e) | Protocol analysis, padding oracles, key management |
+| **Web Application Security** | ![](https://img.shields.io/badge/Intermediate-6D28D9?style=flat-square&labelColor=1a0b2e) | OWASP Top 10, SQLi, XSS, auth flaws |
+| **Network Security** | ![](https://img.shields.io/badge/Intermediate-6D28D9?style=flat-square&labelColor=1a0b2e) | Scanning, enumeration, traffic analysis |
+| **Linux & Windows Fundamentals** | ![](https://img.shields.io/badge/Proficient-7C3AED?style=flat-square&labelColor=1a0b2e) | Hardening, permissions, privilege escalation basics |
+| **Programming & Scripting** | ![](https://img.shields.io/badge/Proficient-7C3AED?style=flat-square&labelColor=1a0b2e) | Python, C, Bash, automation of security tasks |
+| **Detection & SOC Basics** | ![](https://img.shields.io/badge/Intermediate-6D28D9?style=flat-square&labelColor=1a0b2e) | Log analysis, SIEM basics, Sigma rules |
+| **Reverse Engineering** | ![](https://img.shields.io/badge/Learning-4C1D95?style=flat-square&labelColor=1a0b2e) | Static analysis, Ghidra, simple crackmes |
+| **Digital Forensics** | ![](https://img.shields.io/badge/Learning-4C1D95?style=flat-square&labelColor=1a0b2e) | Disk artifacts, memory analysis basics |
+| **Cryptography** | ![](https://img.shields.io/badge/Learning-4C1D95?style=flat-square&labelColor=1a0b2e) | Hashing, encryption schemes, common crypto mistakes |
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0b2e,50:8b5cf6,100:1a0b2e&height=3&section=header" />
 
 </div>
 
+## Education
+
+**Bachelor of Computer Applications (BCA) — Cybersecurity** · University / College Name · `2023 — 2026`
+
+Coursework in networking, operating systems, database systems, secure programming, cryptography, and ethical hacking.
+
+`Computer Networks` `Operating Systems` `DBMS` `Cryptography` `Ethical Hacking` `Python`
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0b2e,50:8b5cf6,100:1a0b2e&height=3&section=header" />
+</div>
+
 ## Projects
 
 <details>
-<summary><b>Automated Reconnaissance Framework</b></summary>
+<summary><b>Automated Reconnaissance Tool</b></summary>
 
 <br/>
 
 | | |
 | :--- | :--- |
-| **Stack** | Python • Go • Redis • PostgreSQL • Docker |
-| **Scale** | 10K+ subdomains per scan • concurrent worker pool |
-| **Performance** | Full pipeline under 8 minutes • rate-limit aware |
+| **Stack** | Python • Bash • SQLite • Docker |
+| **Scope** | Subdomain enumeration • port scanning • service fingerprinting |
+| **Performance** | Concurrent scanning • rate-limit aware |
 | **Security** | Scope enforcement • no destructive modules • audit logging |
-| **Impact** | Cut manual recon time by ~85% on authorized engagements |
+| **Outcome** | Cut manual recon time on lab and CTF targets |
 | **Repository** | [View Source](https://github.com/MukeshPoojary/recon-framework) |
 
-Chains passive and active discovery into a deduplicated asset graph, fingerprints services, and flags high-signal attack surface for manual review.
+Chains passive and active discovery into a deduplicated asset list, fingerprints services, and highlights interesting attack surface for manual review.
 
 </details>
 
 <details>
-<summary><b>Malware Behavior Analysis Sandbox</b></summary>
+<summary><b>Malware Behavior Analysis Lab</b></summary>
 
 <br/>
 
 | | |
 | :--- | :--- |
-| **Stack** | Python • YARA • Volatility • QEMU • FastAPI |
-| **Scale** | 2K+ samples analyzed • 40+ custom detection signatures |
-| **Performance** | Automated 5-minute detonation-to-report cycle |
-| **Security** | Fully air-gapped VMs • snapshot rollback • no host egress |
-| **Impact** | Reduced triage time from hours to minutes |
+| **Stack** | Python • YARA • Volatility • VirtualBox |
+| **Scope** | Analysis of safe, publicly available samples • custom YARA rules |
+| **Performance** | Semi-automated detonation-to-report workflow |
+| **Security** | Isolated VMs • snapshot rollback • no host network access |
+| **Outcome** | Faster, repeatable triage for learning and research |
 | **Repository** | [View Source](https://github.com/MukeshPoojary/malware-sandbox) |
 
-Detonates samples in isolated VMs, captures API calls, network behavior, and memory artifacts, then maps observed behavior to MITRE ATT&CK techniques.
+Runs samples in isolated VMs, records API calls, network behavior, and memory artifacts, then maps observed behavior to MITRE ATT&CK techniques.
 
 </details>
 
 <details>
-<summary><b>SIEM Detection Rule Engine</b></summary>
+<summary><b>SIEM Detection Rules Project</b></summary>
 
 <br/>
 
 | | |
 | :--- | :--- |
 | **Stack** | Python • Sigma • Elasticsearch • Kibana • Docker |
-| **Scale** | 120+ rules • 60% ATT&CK technique coverage |
-| **Performance** | Sub-second correlation • 70% false-positive reduction |
-| **Security** | RBAC-gated rule deployment • signed rule commits |
-| **Impact** | Mean time to detect dropped from 25 min to under 3 |
+| **Scope** | Custom Sigma rules mapped to MITRE ATT&CK techniques |
+| **Performance** | Tested against replayed attack logs from my home lab |
+| **Security** | Version-controlled rules • peer-reviewed commits |
+| **Outcome** | Hands-on practice in tuning rules and reducing false positives |
 | **Repository** | [View Source](https://github.com/MukeshPoojary/detection-engine) |
 
-Compiles Sigma rules into backend-native queries, validates them against replayed attack telemetry, and gates deployment on regression tests.
+Converts Sigma rules into backend-native queries and validates them against simulated attack telemetry.
 
 </details>
 
 <details>
-<summary><b>Vulnerable Lab Environment Builder</b></summary>
+<summary><b>Home Lab — Vulnerable Environment Builder</b></summary>
 
 <br/>
 
 | | |
 | :--- | :--- |
-| **Stack** | Terraform • Ansible • Docker • Vagrant |
-| **Scale** | 25+ scenarios • AD forest, cloud, and web targets |
-| **Performance** | One-command teardown and rebuild in under 4 minutes |
+| **Stack** | Docker • Vagrant • VirtualBox • Ansible |
+| **Scope** | Intentionally vulnerable web apps and a small Active Directory lab |
+| **Performance** | Quick teardown and rebuild with a single command |
 | **Security** | Isolated networks • no internet routing • ephemeral by default |
-| **Impact** | Used for training sessions with 300+ participants |
+| **Outcome** | Safe, legal practice environment for me and my classmates |
 | **Repository** | [View Source](https://github.com/MukeshPoojary/vuln-lab-builder) |
 
-Reproducible, intentionally vulnerable infrastructure for safe, legal practice — with guided objectives and automated solution verification.
+Reproducible, intentionally vulnerable infrastructure for safe, legal practice, with guided objectives to check your progress.
 
 </details>
 
@@ -175,19 +187,19 @@ Reproducible, intentionally vulnerable infrastructure for safe, legal practice �
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0b2e,50:8b5cf6,100:1a0b2e&height=3&section=header" />
 </div>
 
-## Experience
+## Experience & Training
 
-**Security Engineer Intern** · Company Name · `Jun 2025 — Dec 2025`
+**Cybersecurity Intern** · Company Name · `Month Year — Month Year`
 
-Web and API penetration testing, cloud configuration review, and detection rule development for production environments.
+Assisted with vulnerability assessments, basic web testing, and security documentation under senior supervision.
 
-`Burp Suite` `Python` `AWS` `Splunk` `Threat Modeling` `OWASP`
+`Burp Suite` `Python` `OWASP` `Reporting` `Nmap`
 
 <br/>
 
-**SOC Analyst Intern** · Company Name · `Jan 2025 — May 2025`
+**Security Training Program** · Organization Name · `Month Year — Month Year`
 
-Tier-1 alert triage, SIEM tuning, and incident documentation across a 24/7 monitoring rotation.
+Hands-on training in SOC fundamentals, log analysis, and incident response workflows.
 
 `SIEM` `MITRE ATT&CK` `Incident Response` `Log Analysis` `Sigma`
 
@@ -201,12 +213,12 @@ Tier-1 alert triage, SIEM tuning, and incident documentation across a 24/7 monit
 
 | Recognition | Details |
 | :--- | :--- |
-| **CTF — National Finalist** | Top 10 of 500+ teams • web and pwn categories |
-| **Bug Bounty** | 15+ valid reports across coordinated disclosure programs |
-| **Hack The Box** | Pro Hacker rank • 80+ machines rooted |
-| **TryHackMe** | Top 1% global • multiple learning paths completed |
-| **Academic** | Top 5% of cohort • departmental merit recognition |
-| **Community** | Led campus security club of 300+ members |
+| **CTF Participation** | Regular participant in online and college-level CTFs • web, crypto, and forensics categories |
+| **Hack The Box** | Active learner • X machines completed |
+| **TryHackMe** | Rank / percentile • multiple learning paths completed |
+| **Academic** | Strong academic standing • CGPA 9.2/10 |
+| **Community** | Active member / organizer of the campus cybersecurity club |
+| **Open Source** | Security tools and write-ups shared on GitHub |
 
 <br/>
 
@@ -225,8 +237,6 @@ Tier-1 alert triage, SIEM tuning, and incident documentation across a 24/7 monit
 
 <img src="https://img.shields.io/badge/CompTIA%20Security%2B-E31837?style=for-the-badge&logo=comptia&logoColor=white&labelColor=1a0b2e" />
 <img src="https://img.shields.io/badge/eJPT-2F5D62?style=for-the-badge&logo=hackaday&logoColor=white&labelColor=1a0b2e" />
-<img src="https://img.shields.io/badge/CEH%20Practical-A4262C?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=1a0b2e" />
-<img src="https://img.shields.io/badge/AWS%20Security%20Specialty-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=A78BFA&labelColor=1a0b2e" />
 <img src="https://img.shields.io/badge/Cisco%20CyberOps%20Associate-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=1a0b2e" />
 <img src="https://img.shields.io/badge/NPTEL%20Ethical%20Hacking-5B21B6?style=for-the-badge&logo=bookstack&logoColor=A78BFA&labelColor=1a0b2e" />
 
@@ -261,7 +271,7 @@ Tier-1 alert triage, SIEM tuning, and incident documentation across a 24/7 monit
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=Always+open+to+security+conversations;Bug+bounty+%E2%80%A2+Research+%E2%80%A2+Collaboration" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=Always+open+to+security+conversations;Internships+%E2%80%A2+CTF+Teams+%E2%80%A2+Collaboration" />
 
 <br/>
 
